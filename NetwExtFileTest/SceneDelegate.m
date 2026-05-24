@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.m
-//  NetwExtFileTest
-//
-//  Created by yuriymac on 23.05.2026.
-//
 
 #import "SceneDelegate.h"
 
